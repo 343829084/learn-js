@@ -1,8 +1,8 @@
-# 写在最前端
+__使用指南：__
 
-- 有问题，任何问题，直接[新建 issue](https://github.com/sofish/learn-js/issues) （在新建之前请搜索之前的 issue 是否已经解决了你的问题)
-- 所有 `每天更新` 的文章都放在这个 [Milestone 里](https://github.com/sofish/learn-js/milestones/Daily%20Post)，连续两个月，这两个月期间有几天会在老家办婚礼，所以有可能会迟到，但一定补齐 60 篇
-
+- 有问题，任何问题，直接 [新建 issue](https://github.com/sofish/learn-js/issues) 
+- 每天更新的文章都放在这个 [Milestone 里](https://github.com/sofish/learn-js/milestones/Daily%20Post) ，共计会更新 60 篇
+- 想要收藏的点 star，想了每个更新细节的点 watch，不要 fork（除非你想提 pull-request）
 
 
 # 从 0 开始 JavaScript
